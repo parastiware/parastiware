@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @parastiware
 - 👀 I’m interested in programming and problem solving..
-- 🌱 I’m currently learning web nd moblie app devlopment
+- 🌱 I’m currently learning web and moblie app devlopment
 - 💞️ I’m looking to collaborate on a project than can enchance my skills of software devlopment
 - 📫 You can reach me on:
 
 Mail: <a href=" mailto:parastiware@gmail.com">parastiware@gmail.com</a>
 
-linkedIn: https://www.linkedin.com/in/parastiware/
+linkedIn: <a href="https://www.linkedin.com/in/parastiware/" target="_blank"> https://www.linkedin.com/in/parastiware/</a>
 
 FaceBook:https://www.facebook.com/parastiware
 
