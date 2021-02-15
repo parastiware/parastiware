@@ -1,0 +1,21 @@
+- 👋 Hi, I’m @parastiware
+- 👀 I’m interested in programming and problem solving..
+- 🌱 I’m currently learning web nd moblie app devlopment
+- 💞️ I’m looking to collaborate on a project than can enchance my skills of software devlopment
+- 📫 You can reach me on:
+
+Mail: <a href=" mailto:parastiware@gmail.com">parastiware@gmail.com</a>
+
+linkedIn: https://www.linkedin.com/in/parastiware/
+
+FaceBook:https://www.facebook.com/parastiware
+
+Instagram:https://www.instagram.com/paras_tiware/
+
+Twitter:https://twitter.com/parastiware
+
+
+<!---
+parastiware/parastiware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
