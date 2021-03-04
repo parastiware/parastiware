@@ -8,7 +8,7 @@ Mail: <a href=" mailto:parastiware@gmail.com">parastiware@gmail.com</a>
 
 linkedIn: <a href="https://www.linkedin.com/in/parastiware/" target="_blank"> https://www.linkedin.com/in/parastiware/</a>
 
-FaceBook:https://www.facebook.com/parastiware
+Facebook:https://www.facebook.com/parastiware
 
 Instagram:https://www.instagram.com/paras_tiware/
 
