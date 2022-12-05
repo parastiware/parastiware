@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @parastiware
-- 👀 I’m interested in programming and problem solving..
-- 🌱 I’m currently learning web and moblie app devlopment
-- 💞️ I’m looking to collaborate on a project than can enchance my skills of software devlopment
+- 👀 I’m interested in programming and problem solving.
+- 🌱 I have experience in working with programming languages C#, PHP, Java and their farameworks for backend development.
+- 🌱🌱 I’m currently learning mobile app devlopment with flutter.
+- 🌱🌱🌱I have very strong command of relational database on querying,stored procedure functions, triggers and jobs.
+- 🌱🌱🌱🌱I can also work with NoSQL database like mongodb and in memory store like Redis.
+- 🌱🌱🌱🌱🌱I am familiar with micro-service, Repository and CQRS patterns of development.
+- 💞️ I’m looking to collaborate on a project than can furthur enchance my skills of software development
 - 📫 You can reach me on:
 
 Mail: <a href=" mailto:parastiware@gmail.com">parastiware@gmail.com</a>
