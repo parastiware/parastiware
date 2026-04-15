@@ -3,7 +3,7 @@
 💻 Software Engineer | .NET Developer | Backend & IoT Systems  
 📍 Irving, Texas, USA  
 📧 parastiware@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/parastiware)
+🔗 +1-573-587-6714
 
 ---
 
@@ -76,7 +76,7 @@ I’m authorized to work in the U.S. (OPT, EAD approved) and available full-time
 If you're building something interesting or need an extra pair of hands, feel free to reach out.
 
 📧 parastiware@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/parastiware)
++1-573-587-6714
 
 ---
 
