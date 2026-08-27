@@ -1,8 +1,8 @@
 # Hi, I'm Paras Tiwari 👋
 
-**Full-Stack Software Engineer + AI Engineer** — backend, frontend, database, and GenAI integration. Proficient across **C#/.NET** and **Java/Spring Boot**, with hands-on experience building **LLM-integrated systems** for finance, cybersecurity, and document intelligence. M.S. in Applied Computer Science (4.0 GPA) with 3+ years of professional engineering experience across fintech, IoT, and applied AI.
+**Full-Stack Software Engineer + AI Engineer** — backend, frontend, database, and GenAI integration. Proficient across **Java/Spring Boot**, **Python**,**Node**,**C#/.NET**    with hands-on experience building **LLM-integrated systems** for,healthcare, finance, cybersecurity, and document intelligence. M.S. in Applied Computer Science (4.0 GPA).
 
-📍 Irving, TX &nbsp;|&nbsp; 📧 parastiware@gmail.com
+📍 Irving, TX &nbsp;|&nbsp; 
 
 ---
 
@@ -75,7 +75,4 @@ Actively deepening my applied-AI toolkit beyond direct API integration:
 
 ---
 
-### 📫 Reach Me
 
-- Email: parastiware@gmail.com
-- Based in Irving, TX — open to **Full-Stack Software Engineer** and **AI Engineer (GenAI/LLM integration)** roles
